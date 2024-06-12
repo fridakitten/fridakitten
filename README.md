@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on other open source tools i can help.
 - 📫 How to reach me: ceo@polcom.de
 - 😄 Pronouns: she/he (gender fluid)
-- ⚡ Fun fact: I made iOS's first full fledged IDE.
+- ⚡ Fun fact: I made iOS's first open source and mostly full fledged IDE.
 
 <!---
 fridakitten/fridakitten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
