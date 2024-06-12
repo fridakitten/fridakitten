@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deeply computer science and the linux world.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
 - 📫 How to reach me: ceo@polcom.de
-- 😄 Pronouns: he/she
+- 😄 Pronouns: she/he (gender fluid)
 - ⚡ Fun fact: I made iOS's first full fledged IDE.
 
 <!---
