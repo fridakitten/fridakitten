@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deeply computer science and the linux world.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
 - 📫 How to reach me: ceo@polcom.de or my twitter: https://x.com/SeanIsTethered
-- 😄 Pronouns: she/he (gender fluid)
+- 😄 Pronouns: she/her (working to be trans)
 - ⚡ Fun fact: I made iOS's first open source and mostly full fledged IDE (After iTheosMaker, but my thing is a totally different thing).
 
 <!---
