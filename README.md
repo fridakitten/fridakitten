@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fridakitten
+- 👋 Hi, I’m @fridakitten, I wanna be called Frida
 - 👀 I’m interested in coding useful open source tools. Open source because people can learn from my code, contribute or report bugs to me. :3
 - 🌱 I’m currently learning deeply computer science and the linux world.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
